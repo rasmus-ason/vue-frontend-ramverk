@@ -50,7 +50,7 @@ export default {
     @apply md:w-1/3 mx-4;
   }
   .top-heading {
-            @apply text-4xl p-6 md:p-16 md:text-xl lg:text-3xl lg:p-8 xl:p-14 xl:text-5xl text-black text-center font-extralight;
+            @apply text-4xl p-6 md:p-4 md:text-xl lg:text-4xl lg:p-8 xl:p-14 xl:text-5xl text-black text-center font-extralight;
         }
   .text-box {
     @apply w-full text-sm text-white text-center
